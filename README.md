@@ -29,22 +29,17 @@ The application should fulfill the following requirements:
 
 
 # Similar Apps
+App Name: Bykea
+Download Link: https://play.google.com/store/apps/details?id=com.bykea.pk
+No. of Downloads: 1M+
 
-# App Name
-# Download Link
-# No. of Downloads
-1
-Bykea
-1M+
-https://play.google.com/store/apps/details?id=com.bykea.pk
-2
-MULA
-100K+
-https://play.google.com/store/apps/details?id=com.mula.person.user
-3
-Parcel
-100+
-https://play.google.com/store/apps/details?id=com.parcel.customer
+App Name:MULA
+No. of Downloads: 100K+
+Download Link: https://play.google.com/store/apps/details?id=com.mula.person.user
+
+App Name: Parcel
+No. of Downloads: 100+
+Download Link: https://play.google.com/store/apps/details?id=com.parcel.customer
 
 
   
